@@ -10,6 +10,6 @@ Xampp, Wamp o en un Servidor.
 Trabajador y publicador del código para PHP pura:
 
 Moreno Alburqueque Frnak Martin.
-WebMaster - Programador Web PHP
+WebMaster - Programador Web PHP.
 https://frankmorenoalburqueque.com/
 admin@frankmorenoalburqueque.com
