@@ -149,7 +149,7 @@
                 alert('Escriba el ruc.!');
                 $('#ruc').focus();
             }
-            
+            return false;
         });
 
     });    
